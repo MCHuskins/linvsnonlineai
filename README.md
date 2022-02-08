@@ -2,3 +2,6 @@
 
 
 fastai useing resnet34 to tell if an image is linnear or nonlinnear 
+
+
+https://mybinder.org/v2/gh/MCHuskins/linvsnonlineai/HEAD?urlpath=%2Fvoila%2Frender%2FTrimClassifierForAppDeployment.ipynb
